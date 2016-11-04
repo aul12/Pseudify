@@ -32,7 +32,30 @@
       "code":"undefined",
       "pseudo":"UNDEFINIERT"
     },
-
+    {
+      "code":"true",
+      "pseudo":"WAHR"
+    },
+    {
+      "code":"false",
+      "pseudo":"FALSCH"
+    },
+    {
+      "code":"break",
+      "pseudo":"BRECHE AB"
+    },
+    {
+      "code":"continue",
+      "pseudo":"BEGINNE VON VORNE"
+    },
+    {
+      "code":"\\?",
+      "pseudo":"GILT DANN"
+    },
+    {
+      "code":":",
+      "pseudo":"SONST"
+    },
 
     {
       "code":"==",
@@ -134,6 +157,20 @@
     {
       "code":"}",
       "pseudo":"ENDE"
+    },
+
+
+    {
+      "code":"Math.abs",
+      "pseudo":"BETRAG"
+    },
+    {
+      "code":"Math.sqrt",
+      "pseudo":"WURZEL"
+    },
+    {
+      "code":"console.log",
+      "pseudo":"AUSGABE"
     }
   ]
 }
