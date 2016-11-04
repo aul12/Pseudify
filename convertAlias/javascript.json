@@ -1,0 +1,139 @@
+{"alias":
+  [
+    {
+      "code":"function",
+      "pseudo":"FUNKTION"
+    },
+    {
+      "code":"while",
+      "pseudo":"WÄHREND"
+    },
+    {
+      "code":"if",
+      "pseudo":"WENN"
+    },
+    {
+      "code":"else",
+      "pseudo":"SONST"
+    },
+    {
+      "code":"for",
+      "pseudo":"FÜR"
+    },
+    {
+      "code":"var",
+      "pseudo":"VARIABLE"
+    },
+    {
+      "code":"return",
+      "pseudo":"GEBE ZURÜCK"
+    },
+    {
+      "code":"undefined",
+      "pseudo":"UNDEFINIERT"
+    },
+
+
+    {
+      "code":"==",
+      "pseudo":"GLEICH"
+    },
+    {
+      "code":"!=",
+      "pseudo":"UNGLEICH"
+    },
+    {
+        "code":">=",
+        "pseudo":"GRÖßER GLEICH"
+    },
+    {
+      "code":"<=",
+      "pseudo":"KLEINER GLEICH"
+    },
+    {
+      "code":">",
+      "pseudo":"GRÖßER"
+    },
+    {
+      "code":"<",
+      "pseudo":"KLEINER"
+    },
+
+
+    {
+      "code":"&&",
+      "pseudo":"UND"
+    },
+    {
+      "code":"\\|\\|",
+      "pseudo":"ODER"
+    },
+    {
+      "code":"\\^\\^",
+      "pseudo":"ENTWEDER ODER"
+    },
+
+
+    {
+      "code":"\\+\\+",
+      "pseudo":" UM 1 ERHÖHEN"
+    },
+    {
+      "code":"--",
+      "pseudo":" UM 1 VERKLEINERN"
+    },
+    {
+      "code":"\\+=",
+      "pseudo":"ERHÖHE UM"
+    },
+    {
+      "code":"-=",
+      "pseudo":"VERKLEINERE UM"
+    },
+    {
+      "code":"\\*=",
+      "pseudo":"NEHME MAL"
+    },
+    {
+      "code":"/=",
+      "pseudo":"TEILE DURCH"
+    },
+    {
+      "code":"%=",
+      "pseudo":"NEHME MODULO"
+    },
+    {
+      "code":"\\+",
+      "pseudo":"PLUS"
+    },
+    {
+      "code":"-",
+      "pseudo":"MINUS"
+    },
+    {
+      "code":"\\*",
+      "pseudo":"MAL"
+    },
+    {
+      "code":"/",
+      "pseudo":"GETEILT"
+    },
+    {
+      "code":"%",
+      "pseudo":"MODULO"
+    },
+
+    {
+      "code":"=",
+      "pseudo":"SEI"
+    },
+    {
+      "code":"{",
+      "pseudo":"START"
+    },
+    {
+      "code":"}",
+      "pseudo":"ENDE"
+    }
+  ]
+}
